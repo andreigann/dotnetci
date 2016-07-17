@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersSite", "PersSite\PersSite.csproj", "{1030C808-1C04-43F8-B9BC-3B319D120C07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersApi", "PersApi\PersApi.csproj", "{1FCBC0B3-0F01-42EE-932C-B153C80CEBFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersLibrary", "PersLibrary\PersLibrary.csproj", "{8C4A0D23-A1DF-4346-8DE4-CE454FF26D60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1030C808-1C04-43F8-B9BC-3B319D120C07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1030C808-1C04-43F8-B9BC-3B319D120C07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1030C808-1C04-43F8-B9BC-3B319D120C07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1030C808-1C04-43F8-B9BC-3B319D120C07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FCBC0B3-0F01-42EE-932C-B153C80CEBFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FCBC0B3-0F01-42EE-932C-B153C80CEBFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FCBC0B3-0F01-42EE-932C-B153C80CEBFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FCBC0B3-0F01-42EE-932C-B153C80CEBFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C4A0D23-A1DF-4346-8DE4-CE454FF26D60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C4A0D23-A1DF-4346-8DE4-CE454FF26D60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C4A0D23-A1DF-4346-8DE4-CE454FF26D60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C4A0D23-A1DF-4346-8DE4-CE454FF26D60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
